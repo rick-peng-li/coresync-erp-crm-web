@@ -1,0 +1,1 @@
+# coresync-erp-crm-web
